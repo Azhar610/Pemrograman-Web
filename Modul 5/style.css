@@ -1,0 +1,35 @@
+body {
+    background: url("Batik-Background.jpg");
+}
+.pembungkus {
+    margin: auto;
+    width: 750px;
+    border: 1px solid red;
+}
+.kepala {
+    height: 80px;
+    border: 1px solid blue;
+}
+.dalaman {
+    float: left;
+    margin: 5px 0;
+    border: 1px solid black;
+}
+.bagiansamping {
+    float: left;
+    margin-right: 20px;
+    width: 180px;
+    height: 330px;
+    border: 1px solid red;
+}
+.konten {
+    float: left;
+    width: 544px;
+    height: 330px;
+    border: 1px solid green;
+}
+.kaki {
+    clear: both;
+    height: 50px;
+    border: 1px solid blue;
+}
